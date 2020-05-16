@@ -8,7 +8,7 @@
 ------
 ###内置包装类    
 1.Object类  
->Object类是Java中所有类的父类，主要常用的方法有equals()方法,getClass()方法，其中equals()用于比较两个对象内容是否相等（==是比较地址）；而gerClass()方法用于返回该类的各种信息包括类名（getName()），父类（getSupperclass()）及所实现接口（getInterfacess()）的名字。
+>Object类是Java中所有类的父类，主要常用的方法有equals()方法,getClass()方法，其中equals()用于比较两个对象内容是否相等（==是比较地址）；而gerClass()方法用于返回该类的各种信息包括类名（getName()），父类（getSupperclass()）及所实现接口（getInterfacess()）的名字。  
 2.Integer类  
 
 
