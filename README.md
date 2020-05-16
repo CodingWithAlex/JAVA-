@@ -11,5 +11,8 @@
 >&#160; &#160; &#160; &#160;Object类是Java中所有类的父类，主要常用的方法有equals()方法,getClass()方法，其中equals()用于比较两个对象内容是否相等（==是比较地址）；而gerClass()方法用于返回该类的各种信息包括类名（getName()），父类（getSupperclass()）及所实现接口（getInterfaces()）的名字。  
 
 2.Integer类  
->&#160; &#160; &#160; &#160;Integer类在对象中包装了一个基本类型int值。
+>&#160; &#160; &#160; &#160;Integer类在对象中包装了一个基本类型int值。Integer类对象包含一个int类型字段，提供int类型和String类型之间的转换。int类型转String类型（Integer.parseInt(str)）,String类型转int类型（Integer.toString(int)）。  
+
+3.Double类
+>>&#160; &#160; &#160; &#160;Double类在对象中包装了一个基本类型double的值。
 
