@@ -16,3 +16,7 @@
 3.Double类
 >&#160; &#160; &#160; &#160;Double类在对象中包装了一个基本类型double的值。Double类对象包含一个double类型字段，提供double类型和String类型之间的转换。double类型转String类型（Double.parseDouble(str)）,String类型转double类型（Double.toString(double)）。  
 
+4.Number类
+>&#160; &#160; &#160; &#160;Number类是一个抽象类也是一个超类（父类），属于java.lang包。所有的包装类（如Integer类，Double类等）都是抽象类Number的子类。Number定义了一些抽象方法以各种不同的数字格式返回对象的值。__抽象类不能直接实例化，而必须实例化具体的子类__。
+
+
