@@ -14,5 +14,5 @@
 >&#160; &#160; &#160; &#160;Integer类在对象中包装了一个基本类型int值。Integer类对象包含一个int类型字段，提供int类型和String类型之间的转换。int类型转String类型（Integer.parseInt(str)）,String类型转int类型（Integer.toString(int)）。  
 
 3.Double类
->>&#160; &#160; &#160; &#160;Double类在对象中包装了一个基本类型double的值。
+>>&#160; &#160; &#160; &#160;Double类在对象中包装了一个基本类型double的值。Double类对象包含一个double类型字段，提供double类型和String类型之间的转换。double类型转String类型（Double.parseDouble(str)）,String类型转double类型（Double.toString(double)）。  
 
